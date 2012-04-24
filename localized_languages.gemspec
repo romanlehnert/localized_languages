@@ -2,13 +2,13 @@
 
 Gem::Specification.new do |s|
   s.name        = "localized_languages"
-  s.version     = "1.0"
+  s.version     = "0.0.1"
   s.platform    = Gem::Platform::RUBY
   s.summary     = "localized languages"
   s.email       = "roman.lehnert@googlemail.com"
   s.homepage    = "http://github.com/romanlehnert/localized_languages"
   s.description = "localized languages"
-  s.authors     = ['Roman Lehnert']
+  s.authors     = 'Roman Lehnert'
 
   s.files         = `git ls-files`.split("\n")
   s.require_paths = ["lib"]
