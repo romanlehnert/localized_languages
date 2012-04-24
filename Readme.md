@@ -1,11 +1,11 @@
-# Internationalized Languages
+# Localized Languages
 The localizations for a a few languages put together into a gem. No Rake tasks, no plugins, no magic. Just localisations. 
 
 # Usage
 
-    :gem "bla"
+    :gem 'localized_languages', :git => 'git@github.com:romanlehnert/localized_languages.git'
 
 # Credits
-The localisations where created with code from:
+The localizations were created with code from:
 * Kristian Mandrup
 * David Cato
